@@ -1,0 +1,566 @@
+[01Feb2025 23:03:26.263] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[01Feb2025 23:03:26.268] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[01Feb2025 23:03:28.394] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[01Feb2025 23:03:28.535] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/MultiChaosCraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[01Feb2025 23:03:30.063] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[01Feb2025 23:03:30.202] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[01Feb2025 23:03:30.210] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[01Feb2025 23:03:30.219] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[01Feb2025 23:03:31.681] [main/ERROR] [mixin/]: Mixin config notenoughcrashes.mixins.json does not specify "minVersion" property
+[01Feb2025 23:03:31.683] [main/ERROR] [mixin/]: Mixin config notenoughcrashes.forge.mixins.json does not specify "minVersion" property
+[01Feb2025 23:03:31.807] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[01Feb2025 23:03:32.410] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 89 options available, 0 override(s) found
+[01Feb2025 23:03:32.845] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[01Feb2025 23:03:33.080] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 63 options available, 0 override(s) found
+[01Feb2025 23:03:34.343] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[01Feb2025 23:03:34.344] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
+[01Feb2025 23:03:34.726] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via org.embeddedt.modernfix.forge.shadow.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[01Feb2025 23:03:34.728] [main/WARN] [MixinExtras|Service/]: Found problematic active MixinExtras instance at ca.fxco.memoryleakfix.mixinextras (version 0.2.0-beta.6)
+[01Feb2025 23:03:34.729] [main/WARN] [MixinExtras|Service/]: Versions from 0.2.0-beta.1 to 0.2.0-beta.9 have limited support and it is strongly recommended to update.
+[01Feb2025 23:03:35.270] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: ModernFix reached bootstrap stage (14.30 s after launch)
+[01Feb2025 23:03:36.828] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[01Feb2025 23:03:39.558] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: Vanilla bootstrap took 4283 milliseconds
+[01Feb2025 23:03:39.914] [modloading-worker-2/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.registry.DashRegistryBuilder:<init>:18]: DashRegistryBuilder 1.0.0 building for wotwmod
+[01Feb2025 23:03:39.917] [modloading-worker-2/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWSounds:<init>:10]: [WOTWMod] Initializing Sounds
+[01Feb2025 23:03:40.065] [modloading-worker-2/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWItems:<init>:79]: [WOTWMod] Initializing Items
+[01Feb2025 23:03:40.121] [modloading-worker-3/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Not running in debugger
+[01Feb2025 23:03:40.188] [modloading-worker-2/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.registry.DashRegistryBuilder:<init>:18]: DashRegistryBuilder 1.0.0 building for wotwmod
+[01Feb2025 23:03:40.188] [modloading-worker-2/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWBlocks:<init>:75]: [WOTWMod] Initializing Blocks
+[01Feb2025 23:03:40.198] [modloading-worker-2/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntities:<init>:50]: [WOTWMod] Initializing Entities
+[01Feb2025 23:03:40.205] [modloading-worker-2/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWTiles:<init>:33]: [WOTWMod] Initializing Tile Entities
+[01Feb2025 23:03:40.206] [modloading-worker-2/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWDims:<init>:11]: [WOTWMod] Initializing Dimensions
+[01Feb2025 23:03:40.208] [modloading-worker-2/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWContainers:<init>:20]: [WOTWMod] Initializing Containers
+[01Feb2025 23:03:40.718] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[01Feb2025 23:03:40.718] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[01Feb2025 23:03:41.010] [modloading-worker-0/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[01Feb2025 23:03:41.254] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing oak_planks_coord_panel's behavior
+[01Feb2025 23:03:41.255] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing oak_planks_dimension_selector's behavior
+[01Feb2025 23:03:41.255] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing oak_planks_waypoint_panel's behavior
+[01Feb2025 23:03:41.256] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing oak_planks_chameleon_panel's behavior
+[01Feb2025 23:03:41.256] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing birch_planks_coord_panel's behavior
+[01Feb2025 23:03:41.256] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing acacia_planks_coord_panel's behavior
+[01Feb2025 23:03:41.257] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing dark_oak_planks_coord_panel's behavior
+[01Feb2025 23:03:41.257] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing spruce_planks_coord_panel's behavior
+[01Feb2025 23:03:41.257] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing crimson_planks_coord_panel's behavior
+[01Feb2025 23:03:41.258] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing warped_planks_coord_panel's behavior
+[01Feb2025 23:03:41.258] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing jungle_planks_coord_panel's behavior
+[01Feb2025 23:03:41.258] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing thalma_planks_coord_panel's behavior
+[01Feb2025 23:03:41.259] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing acacia_planks_dimension_selector's behavior
+[01Feb2025 23:03:41.259] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing birch_planks_dimension_selector's behavior
+[01Feb2025 23:03:41.259] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing crimson_planks_dimension_selector's behavior
+[01Feb2025 23:03:41.259] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing dark_oak_planks_dimension_selector's behavior
+[01Feb2025 23:03:41.260] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing jungle_planks_dimension_selector's behavior
+[01Feb2025 23:03:41.260] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing spruce_planks_dimension_selector's behavior
+[01Feb2025 23:03:41.260] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing thalma_planks_dimension_selector's behavior
+[01Feb2025 23:03:41.261] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing warped_planks_dimension_selector's behavior
+[01Feb2025 23:03:41.261] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing acacia_planks_waypoint_panel's behavior
+[01Feb2025 23:03:41.262] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing birch_planks_waypoint_panel's behavior
+[01Feb2025 23:03:41.262] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing crimson_planks_waypoint_panel's behavior
+[01Feb2025 23:03:41.263] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing dark_oak_planks_waypoint_panel's behavior
+[01Feb2025 23:03:41.263] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing jungle_planks_waypoint_panel's behavior
+[01Feb2025 23:03:41.264] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing spruce_planks_waypoint_panel's behavior
+[01Feb2025 23:03:41.264] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing thalma_planks_waypoint_panel's behavior
+[01Feb2025 23:03:41.265] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing warped_planks_waypoint_panel's behavior
+[01Feb2025 23:03:41.265] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing birch_planks_chameleon_panel's behavior
+[01Feb2025 23:03:41.266] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing acacia_planks_chameleon_panel's behavior
+[01Feb2025 23:03:41.266] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing dark_oak_planks_chameleon_panel's behavior
+[01Feb2025 23:03:41.267] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing spruce_planks_chameleon_panel's behavior
+[01Feb2025 23:03:41.267] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing crimson_planks_chameleon_panel's behavior
+[01Feb2025 23:03:41.268] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing warped_planks_chameleon_panel's behavior
+[01Feb2025 23:03:41.268] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing jungle_planks_chameleon_panel's behavior
+[01Feb2025 23:03:41.269] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing thalma_planks_chameleon_panel's behavior
+[01Feb2025 23:03:41.271] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing acacia_planks_sonic_interface's behavior
+[01Feb2025 23:03:41.272] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing birch_planks_sonic_interface's behavior
+[01Feb2025 23:03:41.272] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing crimson_planks_sonic_interface's behavior
+[01Feb2025 23:03:41.272] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing dark_oak_planks_sonic_interface's behavior
+[01Feb2025 23:03:41.273] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing jungle_planks_sonic_interface's behavior
+[01Feb2025 23:03:41.273] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing oak_planks_sonic_interface's behavior
+[01Feb2025 23:03:41.273] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing spruce_planks_sonic_interface's behavior
+[01Feb2025 23:03:41.274] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing thalma_planks_sonic_interface's behavior
+[01Feb2025 23:03:41.274] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing warped_planks_sonic_interface's behavior
+[01Feb2025 23:03:41.277] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing thalma_planks_flight_panel's behavior
+[01Feb2025 23:03:41.277] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing oak_planks_flight_panel's behavior
+[01Feb2025 23:03:41.277] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing birch_planks_flight_panel's behavior
+[01Feb2025 23:03:41.278] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing crimson_planks_flight_panel's behavior
+[01Feb2025 23:03:41.278] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing dark_oak_planks_flight_panel's behavior
+[01Feb2025 23:03:41.279] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing jungle_planks_flight_panel's behavior
+[01Feb2025 23:03:41.279] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing spruce_planks_flight_panel's behavior
+[01Feb2025 23:03:41.279] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing warped_planks_flight_panel's behavior
+[01Feb2025 23:03:41.280] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing acacia_planks_flight_panel's behavior
+[01Feb2025 23:03:41.331] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing flight_lever's behavior
+[01Feb2025 23:03:41.332] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing fast_return_lever's behavior
+[01Feb2025 23:03:41.332] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing coord_panel's behavior
+[01Feb2025 23:03:41.333] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing dimension_selector_panel's behavior
+[01Feb2025 23:03:41.333] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing waypoint_panel's behavior
+[01Feb2025 23:03:41.334] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing chameleon_panel's behavior
+[01Feb2025 23:03:41.335] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing sonic_interface's behavior
+[01Feb2025 23:03:41.338] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing tardis_door_hitbox's behavior
+[01Feb2025 23:03:41.340] [modloading-worker-0/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Changing flight_panel's behavior
+[01Feb2025 23:03:43.514] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[01Feb2025 23:03:43.515] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[01Feb2025 23:03:44.348] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:03:44.361] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.361] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.361] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.362] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.362] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.362] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.362] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.362] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:03:44.364] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.365] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.365] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.365] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.365] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.365] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.366] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.366] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.366] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.366] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.366] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:03:44.368] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.374] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.374] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:03:44.374] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.375] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:03:44.375] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:03:44.375] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.375] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.375] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.376] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.376] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.378] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.378] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.383] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.385] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.385] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.386] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:03:44.466] [modloading-worker-3/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[01Feb2025 23:03:44.466] [modloading-worker-3/INFO] [com.swdteam.wotwmod.WOTWMod/]: WOTWMod Update v3.0.5
+[01Feb2025 23:03:44.468] [modloading-worker-2/INFO] [com.betterfpsdist.BetterfpsdistMod/]: betterfpsdist mod initialized
+[01Feb2025 23:03:44.468] [modloading-worker-1/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[01Feb2025 23:03:44.481] [modloading-worker-2/INFO] [com.mattdahepic.autooredictconv.common.AutoOreDictConv/]: Ready to convert with 16 entries in the config.
+[01Feb2025 23:03:44.493] [modloading-worker-3/INFO] [com.swdteam.wotwmod.WOTWMod/]: WOTWMod Update v3.0.5
+[01Feb2025 23:03:44.508] [modloading-worker-1/INFO] [com.jdolphin.dmadditions.DMAdditions/]: Enabling New Tardis Mod compatibility features
+[01Feb2025 23:03:44.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [autooredictconv] Starting version check at https://raw.githubusercontent.com/MattDahEpic/Version/master/autooredictconv.json
+[01Feb2025 23:03:44.596] [main/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.StructureFeature@529461d3' to registry
+[01Feb2025 23:03:44.598] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.fighting_machine
+[01Feb2025 23:03:44.598] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.bombarding_machine
+[01Feb2025 23:03:44.598] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.scalp
+[01Feb2025 23:03:44.599] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.martian_drone
+[01Feb2025 23:03:44.599] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.looter
+[01Feb2025 23:03:44.599] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.soldier
+[01Feb2025 23:03:44.600] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.flying_machine
+[01Feb2025 23:03:44.600] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.war_machine
+[01Feb2025 23:03:44.600] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.war_ship
+[01Feb2025 23:03:44.601] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.electric_machine
+[01Feb2025 23:03:44.601] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.probing_machine
+[01Feb2025 23:03:44.601] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.mortaxan
+[01Feb2025 23:03:44.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [autooredictconv] Found status: UP_TO_DATE Current: 16.1.10 Target: null
+[01Feb2025 23:03:44.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.16.5
+[01Feb2025 23:03:44.603] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:looter, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.603] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:bombarding_machine, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.603] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:electric_machine, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.603] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.minecraft.entity.monster.GuardianEntity from class com.swdteam.wotwmod.common.entity.machine.FightingMachineEntity
+[01Feb2025 23:03:44.604] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:fighting_machine, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.604] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:scalp, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.604] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:martian_drone, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.604] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:probing_machine, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.604] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:heat_ray, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.604] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:mars_roach, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.604] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:rock_slug, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.605] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:jeep, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.605] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:plane, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.605] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:spitfire, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.605] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.minecraft.entity.monster.GuardianEntity from class com.swdteam.wotwmod.common.entity.machine.FlyingMachineEntity
+[01Feb2025 23:03:44.605] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:flying_machine, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.605] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:ashigator, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.605] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:auto_turret, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.606] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:looter_captain, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.606] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:occulus, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.606] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:executioner, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.606] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:war_machine, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.606] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:war_ship, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.606] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:crow, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.606] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:dust_toad, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.606] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:tank, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.607] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:soldier, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.607] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:mortaxan, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.607] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for wotwmod:scalper_hive, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.607] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.WOTWMod:addBlockToThingy:360]: [Block{minecraft:stone}, Block{minecraft:granite}, Block{minecraft:diorite}, Block{minecraft:andesite}, Block{minecraft:dirt}, Block{minecraft:coarse_dirt}, Block{minecraft:podzol}, Block{minecraft:grass_block}, Block{minecraft:terracotta}, Block{minecraft:white_terracotta}, Block{minecraft:orange_terracotta}, Block{minecraft:magenta_terracotta}, Block{minecraft:light_blue_terracotta}, Block{minecraft:yellow_terracotta}, Block{minecraft:lime_terracotta}, Block{minecraft:pink_terracotta}, Block{minecraft:gray_terracotta}, Block{minecraft:light_gray_terracotta}, Block{minecraft:cyan_terracotta}, Block{minecraft:purple_terracotta}, Block{minecraft:blue_terracotta}, Block{minecraft:brown_terracotta}, Block{minecraft:green_terracotta}, Block{minecraft:red_terracotta}, Block{minecraft:black_terracotta}, Block{minecraft:sandstone}, Block{minecraft:red_sandstone}, Block{minecraft:mycelium}, Block{minecraft:snow}, Block{minecraft:packed_ice}]
+[01Feb2025 23:03:44.608] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.fighting_machine
+[01Feb2025 23:03:44.608] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.bombarding_machine
+[01Feb2025 23:03:44.608] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.scalp
+[01Feb2025 23:03:44.608] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.martian_drone
+[01Feb2025 23:03:44.609] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.looter
+[01Feb2025 23:03:44.609] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.soldier
+[01Feb2025 23:03:44.609] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.flying_machine
+[01Feb2025 23:03:44.609] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.war_machine
+[01Feb2025 23:03:44.609] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.war_ship
+[01Feb2025 23:03:44.610] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.electric_machine
+[01Feb2025 23:03:44.610] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.probing_machine
+[01Feb2025 23:03:44.610] [main/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.init.WOTWEntitySpawns:addWOTWSpawn:83]: entity.wotwmod.mortaxan
+[01Feb2025 23:03:44.657] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:auton, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.657] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.swdteam.common.entity.AutonEntity from class com.swdteam.common.entity.CybermanEntity
+[01Feb2025 23:03:44.657] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:cyberman, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.658] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:dalek, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.658] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:classic_spider, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.658] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:classic_skeleton, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.658] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:weeping_angel, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.659] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:kerblam_man, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.659] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.swdteam.common.entity.AutonEntity from class com.swdteam.common.entity.CybervillagerEntity
+[01Feb2025 23:03:44.659] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:cybervillager, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.659] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:cybermat, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.659] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:cyberdrone, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.659] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:ood, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.660] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:k9, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.660] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:storm, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.660] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:dalek_clam, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.660] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:dalek_magnodon, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.660] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:christmas_tree, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.660] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:roboform, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.661] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dalekmod:roboman, use EntityAttributeCreationEvent instead.
+[01Feb2025 23:03:44.791] [modloading-worker-0/INFO] [com.swdteam.wotwmod.WOTWMod/]: Got IMC []
+[01Feb2025 23:03:44.792] [modloading-worker-3/INFO] [com.swdteam.main.DalekMod/]: Got IMC []
+[01Feb2025 23:03:44.861] [modloading-worker-0/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[01Feb2025 23:03:44.864] [modloading-worker-0/INFO] [Waila/]: Registered plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[01Feb2025 23:03:44.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 6.0.0.28 Target: 6.0.0.28
+[01Feb2025 23:03:44.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dmadditions] Starting version check at https://api.modrinth.com/updates/6XJWjUK9/forge_updates.json
+[01Feb2025 23:03:45.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dmadditions] Found status: UP_TO_DATE Current: 1.5.3 Target: null
+[01Feb2025 23:03:45.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[01Feb2025 23:03:45.426] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Feb2025 23:03:45.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 1.5.4 Target: 1.5.4
+[01Feb2025 23:03:45.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[01Feb2025 23:03:46.010] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Feb2025 23:03:46.024] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tardis, interior, players] and [tardis, interior, tardis] with inputs: [0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Feb2025 23:03:46.026] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tardis, unlock, console] and [tardis, unlock, player] with inputs: [console]
+[01Feb2025 23:03:46.027] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tardis, unlock, exterior] and [tardis, unlock, player] with inputs: [exterior]
+[01Feb2025 23:03:46.028] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tardis, unlock, interior] and [tardis, unlock, player] with inputs: [interior]
+[01Feb2025 23:03:46.032] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Feb2025 23:03:46.033] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Feb2025 23:03:46.035] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Feb2025 23:03:46.037] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Feb2025 23:03:46.038] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Feb2025 23:03:46.057] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Zombie+Extreme+1.16.5+1.8.2.jar, smoothchunk1.16.5-2.0.jar, notenoughcrashes-4.1.4+1.16.5-forge.jar, limitedchunks-2.1.jar, WOTWMod+Update+3.0.5 (1).jar, connectivity-2.4-1.16.5.jar, betterfpsdist-1.2.jar, autooredictconv-1.16.4-16.1.10.jar, temporal_additions-1.16.5-3.0-hotfix-1.jar, Clumps-6.0.0.28.jar, fastasyncworldsave-1.16.5-1.4.jar, modernfix-forge-5.18.0+mc1.16.5.jar, jei-1.16.5-7.8.0.1009.jar, dmadditions-1.5.3.jar, dalekmod-70.17.1.jar, configured-1.5.4-1.16.5.jar, obfuscate-0.6.3-1.16.5.jar, mdecore-1.16.4-16.1.0.jar, lazydfu-0.1.3.jar, architectury-1.32.68.jar, minecraft-comes-alive-7.3.23+1.16.5-universal.jar, ferritecore-2.1.1-forge.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, FpsReducer-forge-1.24-mc1.16.5.jar, memoryleakfix-forge-pre1.17-1.0.0.jar, Tardis-Mod-1.16.5-1.5.4.jar, vortexmanipulators-1.4C.jar, forge-1.16.5-36.2.42-universal.jar, geckolib-forge-1.16.5-3.0.106.jar, embeddium-0.3.18+mc1.16.5.jar, corpse-1.16.5-1.0.6.jar
+[01Feb2025 23:03:46.059] [main/INFO] [ModernFix/]: Invalidating pack caches
+[01Feb2025 23:03:46.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Found status: BETA Current: 0.6.3 Target: 0.6.3
+[01Feb2025 23:03:46.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mdecore] Starting version check at https://raw.githubusercontent.com/MattDahEpic/Version/master/mdecore.json
+[01Feb2025 23:03:46.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mdecore] Found status: BETA Current: 16.1.0 Target: null
+[01Feb2025 23:03:46.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Feb2025 23:03:46.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[01Feb2025 23:03:46.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[01Feb2025 23:03:46.976] [Worker-Main-2/INFO] [tardis/]: Beginning loading of data for data loader: unlock_schematics
+[01Feb2025 23:03:46.988] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:consoles/coral
+[01Feb2025 23:03:46.989] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:consoles/galvanic
+[01Feb2025 23:03:46.990] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:consoles/hartnell
+[01Feb2025 23:03:46.991] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:consoles/nemo
+[01Feb2025 23:03:46.993] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:consoles/neutron
+[01Feb2025 23:03:46.994] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:consoles/polymedical
+[01Feb2025 23:03:46.994] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:consoles/steam
+[01Feb2025 23:03:46.994] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:consoles/toyota
+[01Feb2025 23:03:46.995] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:consoles/xion
+[01Feb2025 23:03:46.995] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/aperture
+[01Feb2025 23:03:46.996] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/bokkusu
+[01Feb2025 23:03:46.996] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/clock
+[01Feb2025 23:03:46.996] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/disguise
+[01Feb2025 23:03:46.997] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/fortune
+[01Feb2025 23:03:46.997] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/modern_police_box
+[01Feb2025 23:03:46.997] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/police_box
+[01Feb2025 23:03:46.998] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/safe
+[01Feb2025 23:03:47.000] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/steampunk
+[01Feb2025 23:03:47.000] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/telephone
+[01Feb2025 23:03:47.001] [Worker-Main-2/INFO] [tardis/]: Added schematic: tadditions:exteriors/toyota
+[01Feb2025 23:03:47.001] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/trunk
+[01Feb2025 23:03:47.001] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/tt_2020
+[01Feb2025 23:03:47.002] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:exteriors/tt_capsule
+[01Feb2025 23:03:47.002] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/abandoned_alabaster
+[01Feb2025 23:03:47.003] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/abandoned_imperial
+[01Feb2025 23:03:47.003] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/abandoned_jade
+[01Feb2025 23:03:47.003] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/abandoned_nautilus
+[01Feb2025 23:03:47.004] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/abandoned_panamax
+[01Feb2025 23:03:47.004] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/abandoned_steam
+[01Feb2025 23:03:47.005] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/alabaster
+[01Feb2025 23:03:47.005] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/amethyst
+[01Feb2025 23:03:47.005] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/architect
+[01Feb2025 23:03:47.006] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/coral
+[01Feb2025 23:03:47.006] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/debug
+[01Feb2025 23:03:47.007] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/envoy
+[01Feb2025 23:03:47.007] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/imperial
+[01Feb2025 23:03:47.008] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/jade
+[01Feb2025 23:03:47.008] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/nautilus
+[01Feb2025 23:03:47.010] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/omega
+[01Feb2025 23:03:47.010] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/panamax
+[01Feb2025 23:03:47.011] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/steam
+[01Feb2025 23:03:47.011] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/toyota
+[01Feb2025 23:03:47.012] [Worker-Main-2/INFO] [tardis/]: Added schematic: tardis:interiors/traveler
+[01Feb2025 23:03:47.012] [Worker-Main-2/INFO] [tardis/]: Data loader for unlock_schematics loaded 43 entries
+[01Feb2025 23:03:47.188] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load block tag dalekmod:tardis_controls as it is missing following references: dalekmod:data_writer (from dalekmod-70.17.1.jar)
+[01Feb2025 23:03:47.192] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag dalekmod:tardis_controls as it is missing following references: dalekmod:data_writer (from dalekmod-70.17.1.jar)
+[01Feb2025 23:03:47.213] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/chestplate as it's serializer returned null
+[01Feb2025 23:03:47.222] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/nugget as it's serializer returned null
+[01Feb2025 23:03:47.223] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/silicon/silicon_ore as it's serializer returned null
+[01Feb2025 23:03:47.224] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/leggings as it's serializer returned null
+[01Feb2025 23:03:47.224] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/ingot as it's serializer returned null
+[01Feb2025 23:03:47.234] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/entity_melting/cyber/cyberman as it's serializer returned null
+[01Feb2025 23:03:47.234] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/stainless_steel/3_ingots as it's serializer returned null
+[01Feb2025 23:03:47.235] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/stainless_steel/ingot as it's serializer returned null
+[01Feb2025 23:03:47.238] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/1_ingot as it's serializer returned null
+[01Feb2025 23:03:47.243] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/2_ingots as it's serializer returned null
+[01Feb2025 23:03:47.244] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/leggings as it's serializer returned null
+[01Feb2025 23:03:47.245] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/helmet as it's serializer returned null
+[01Feb2025 23:03:47.246] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/dalekanium/dalekanium_block as it's serializer returned null
+[01Feb2025 23:03:47.249] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/4_ingots as it's serializer returned null
+[01Feb2025 23:03:47.249] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/stainless_steel/4_ingots as it's serializer returned null
+[01Feb2025 23:03:47.254] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/stainless_steel/stainless_steel_block as it's serializer returned null
+[01Feb2025 23:03:47.256] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/helmet as it's serializer returned null
+[01Feb2025 23:03:47.256] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/1_ingot as it's serializer returned null
+[01Feb2025 23:03:47.257] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/2_ingots as it's serializer returned null
+[01Feb2025 23:03:47.258] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/boots as it's serializer returned null
+[01Feb2025 23:03:47.261] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/chestplate as it's serializer returned null
+[01Feb2025 23:03:47.262] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/1_ingot as it's serializer returned null
+[01Feb2025 23:03:47.263] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/5_ingots as it's serializer returned null
+[01Feb2025 23:03:47.264] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/silicon/silicon_ingot as it's serializer returned null
+[01Feb2025 23:03:47.264] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/boots as it's serializer returned null
+[01Feb2025 23:03:47.266] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/stainless_steel/2_ingots as it's serializer returned null
+[01Feb2025 23:03:47.267] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/metalert/metalert_block as it's serializer returned null
+[01Feb2025 23:03:47.268] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/block as it's serializer returned null
+[01Feb2025 23:03:47.269] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/stainless_steel/5_ingots as it's serializer returned null
+[01Feb2025 23:03:47.270] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/block as it's serializer returned null
+[01Feb2025 23:03:47.271] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/silicon/silicon_ingot as it's serializer returned null
+[01Feb2025 23:03:47.273] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/3_ingots as it's serializer returned null
+[01Feb2025 23:03:47.281] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/steel/rod_sand_cast as it's serializer returned null
+[01Feb2025 23:03:47.283] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/block as it's serializer returned null
+[01Feb2025 23:03:47.285] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/4_ingots as it's serializer returned null
+[01Feb2025 23:03:47.286] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/stainless_steel/block as it's serializer returned null
+[01Feb2025 23:03:47.286] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/boots as it's serializer returned null
+[01Feb2025 23:03:47.287] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/4_ingots as it's serializer returned null
+[01Feb2025 23:03:47.288] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/leggings as it's serializer returned null
+[01Feb2025 23:03:47.290] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/5_ingots as it's serializer returned null
+[01Feb2025 23:03:47.291] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/steel/steel_block as it's serializer returned null
+[01Feb2025 23:03:47.293] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/weak_block as it's serializer returned null
+[01Feb2025 23:03:47.298] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/3_ingots as it's serializer returned null
+[01Feb2025 23:03:47.300] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/stainless_steel/1_ingot as it's serializer returned null
+[01Feb2025 23:03:47.301] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/dalekanium/dalekanium_ingot as it's serializer returned null
+[01Feb2025 23:03:47.306] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/5_ingots as it's serializer returned null
+[01Feb2025 23:03:47.307] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/dalekanium/dalekanium_ingot_sand_cast as it's serializer returned null
+[01Feb2025 23:03:47.307] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/rod as it's serializer returned null
+[01Feb2025 23:03:47.308] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/helmet as it's serializer returned null
+[01Feb2025 23:03:47.310] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/entity_melting/dalek/dalek as it's serializer returned null
+[01Feb2025 23:03:47.311] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/steel/2_ingots as it's serializer returned null
+[01Feb2025 23:03:47.312] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/steel/rod_gold_cast as it's serializer returned null
+[01Feb2025 23:03:47.313] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/3_ingots as it's serializer returned null
+[01Feb2025 23:03:47.315] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/dalekanium/ingot as it's serializer returned null
+[01Feb2025 23:03:47.318] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/melting/metalert/chestplate as it's serializer returned null
+[01Feb2025 23:03:47.319] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe dmadditions:tc/casting/stainless_steel/stainless_steel_ingot as it's serializer returned null
+[01Feb2025 23:03:47.325] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 14 recipes
+[01Feb2025 23:03:47.339] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[01Feb2025 23:03:47.512] [Worker-Main-2/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table tadditions:blocks/decorative_toyota_police_box: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'tadditions:decorative_toyota_police_box'
+[01Feb2025 23:03:47.796] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {wotwmod:blocks/skull_and_bones}.pools[0].entries[0]: Unreachable entry!
+[01Feb2025 23:03:47.828] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement dalekmod:recipes/building_blocks/stripped_thalma_wood: Unknown item id 'dalekmod:stripped_thalma_log'
+[01Feb2025 23:03:47.875] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement wotwmod:kill_electric_machine: Task Advancement{parentId=wotwmod:kill_bombard, display=net.minecraft.advancements.DisplayInfo@67f306ff, rewards=AdvancementRewards{experience=50, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@3cb61dec}, criteria={killed_electricmachine=net.minecraft.advancements.Criterion@4159371b}, requirements=[[killed_electricmachine]]}
+[01Feb2025 23:03:47.876] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement wotwmod:kill_bombard: Task Advancement{parentId=wotwmod:kill_tripod, display=net.minecraft.advancements.DisplayInfo@16dfd1db, rewards=AdvancementRewards{experience=50, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@3cb61dec}, criteria={killed_bombard=net.minecraft.advancements.Criterion@1e36ddf4}, requirements=[[killed_bombard]]}
+[01Feb2025 23:03:47.876] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement wotwmod:kill_tripod: Task Advancement{parentId=wotwmod:kill_kamikaze, display=net.minecraft.advancements.DisplayInfo@50271ff7, rewards=AdvancementRewards{experience=50, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@3cb61dec}, criteria={killed_tripod=net.minecraft.advancements.Criterion@7856a17a}, requirements=[[killed_tripod]]}
+[01Feb2025 23:03:47.876] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombie_extreme:zombie_extreme_begin: Task Advancement{parentId=zombie_extreme:zombie_extreme_begin, display=net.minecraft.advancements.DisplayInfo@6130b528, rewards=AdvancementRewards{experience=1, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@3cb61dec}, criteria={zombie_extreme_begin=net.minecraft.advancements.Criterion@2ca08505}, requirements=[[zombie_extreme_begin]]}
+[01Feb2025 23:03:47.877] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement wotwmod:kill_kamikaze: Task Advancement{parentId=wotwmod:kill_scalp, display=net.minecraft.advancements.DisplayInfo@29d4121d, rewards=AdvancementRewards{experience=50, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@3cb61dec}, criteria={killed_drone=net.minecraft.advancements.Criterion@174328f}, requirements=[[killed_drone]]}
+[01Feb2025 23:03:47.877] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement wotwmod:martian_slayer/kill_scalp: Task Advancement{parentId=wotwmod:wotwmartianslayer, display=net.minecraft.advancements.DisplayInfo@2d81a831, rewards=AdvancementRewards{experience=50, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@3cb61dec}, criteria={killed_scalp=net.minecraft.advancements.Criterion@dc10744}, requirements=[[killed_scalp]]}
+[01Feb2025 23:03:47.897] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1455 advancements
+[01Feb2025 23:03:48.022] [Worker-Main-2/INFO] [tardis/]: Beginning loading of data for data loader: console_rooms
+[01Feb2025 23:03:48.022] [Worker-Main-2/INFO] [tardis/]: Cleared ConsoleRoom Registry!
+[01Feb2025 23:03:48.023] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:toyota
+[01Feb2025 23:03:48.023] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:abandoned_panamax
+[01Feb2025 23:03:48.023] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:abandoned_jade
+[01Feb2025 23:03:48.023] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:abandoned_alabaster
+[01Feb2025 23:03:48.024] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:omega
+[01Feb2025 23:03:48.024] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:alabaster
+[01Feb2025 23:03:48.024] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:imperial
+[01Feb2025 23:03:48.024] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:abandoned_steam
+[01Feb2025 23:03:48.024] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:abandoned_nautilus
+[01Feb2025 23:03:48.024] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:nautilus
+[01Feb2025 23:03:48.024] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:architect
+[01Feb2025 23:03:48.024] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:jade
+[01Feb2025 23:03:48.025] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:traveler
+[01Feb2025 23:03:48.025] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:amethyst
+[01Feb2025 23:03:48.025] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:debug
+[01Feb2025 23:03:48.025] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:abandoned_imperial
+[01Feb2025 23:03:48.025] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:coral
+[01Feb2025 23:03:48.025] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:panamax
+[01Feb2025 23:03:48.025] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:steam
+[01Feb2025 23:03:48.025] [Worker-Main-2/INFO] [tardis/]: Registered core Console Room: tardis:envoy
+[01Feb2025 23:03:48.026] [Worker-Main-2/INFO] [tardis/]: Data loader for console_rooms loaded 20 entries
+[01Feb2025 23:03:48.026] [Worker-Main-2/INFO] [tardis/]: Beginning loading of data for data loader: ars_pieces
+[01Feb2025 23:03:48.026] [Worker-Main-2/INFO] [tardis/]: Cleared ARS Registry!
+[01Feb2025 23:03:48.028] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/steam/turn_right
+[01Feb2025 23:03:48.028] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/steam/long
+[01Feb2025 23:03:48.028] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/alabaster/short
+[01Feb2025 23:03:48.028] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/steam/turn_left
+[01Feb2025 23:03:48.028] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/steam/short
+[01Feb2025 23:03:48.029] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/library
+[01Feb2025 23:03:48.029] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/dark/short
+[01Feb2025 23:03:48.029] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/alabaster/long
+[01Feb2025 23:03:48.029] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/large_room
+[01Feb2025 23:03:48.030] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/hydroponics_large
+[01Feb2025 23:03:48.030] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/alabaster/fourway
+[01Feb2025 23:03:48.030] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/ars_tree
+[01Feb2025 23:03:48.030] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/cloister
+[01Feb2025 23:03:48.030] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/alabaster/turn_left
+[01Feb2025 23:03:48.031] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/alabaster/turn_right
+[01Feb2025 23:03:48.031] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/lab
+[01Feb2025 23:03:48.031] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/dark/long
+[01Feb2025 23:03:48.031] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/archives
+[01Feb2025 23:03:48.031] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/dark/fourway
+[01Feb2025 23:03:48.031] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/dark/turn_right
+[01Feb2025 23:03:48.031] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/alabaster/t_junction
+[01Feb2025 23:03:48.032] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/gravity_shaft_down
+[01Feb2025 23:03:48.032] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/hydroponics
+[01Feb2025 23:03:48.032] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/gravity_shaft_up
+[01Feb2025 23:03:48.032] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/steam/fourway
+[01Feb2025 23:03:48.032] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/dark/t_junction
+[01Feb2025 23:03:48.032] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/workroom_3
+[01Feb2025 23:03:48.032] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/workroom_2
+[01Feb2025 23:03:48.032] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/workroom_1
+[01Feb2025 23:03:48.033] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/storeroom
+[01Feb2025 23:03:48.033] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/dark/turn_left
+[01Feb2025 23:03:48.033] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:room/machinery_workshop
+[01Feb2025 23:03:48.033] [Worker-Main-2/INFO] [tardis/]: Registered core ARSPiece: tardis:corridor/steam/t_junction
+[01Feb2025 23:03:48.034] [Worker-Main-2/INFO] [tardis/]: Added Datapack entry: tardis:corridor/copper/turn_left
+[01Feb2025 23:03:48.034] [Worker-Main-2/INFO] [tardis/]: Added Datapack entry: tardis:corridor/copper/fourway
+[01Feb2025 23:03:48.034] [Worker-Main-2/INFO] [tardis/]: Added Datapack entry: tardis:corridor/copper/turn_right
+[01Feb2025 23:03:48.034] [Worker-Main-2/INFO] [tardis/]: Added Datapack entry: tardis:corridor/copper/t_junction
+[01Feb2025 23:03:48.035] [Worker-Main-2/INFO] [tardis/]: Added Datapack entry: tardis:corridor/copper/long
+[01Feb2025 23:03:48.035] [Worker-Main-2/INFO] [tardis/]: Data loader for ars_pieces loaded 38 entries
+[01Feb2025 23:03:48.035] [Worker-Main-2/INFO] [tardis/]: Beginning loading of data for data loader: tardis_likes
+[01Feb2025 23:03:48.035] [Worker-Main-2/INFO] [tardis/]: Cleared Tardis Like Registry!
+[01Feb2025 23:03:48.035] [Worker-Main-2/INFO] [tardis/]: Registered default Tardis Likes
+[01Feb2025 23:03:48.035] [Worker-Main-2/INFO] [tardis/]: Data loader for tardis_likes loaded 6 entries
+[01Feb2025 23:03:48.251] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:blockstack_default
+[01Feb2025 23:03:48.251] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:booth_default
+[01Feb2025 23:03:48.251] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:secondary
+[01Feb2025 23:03:48.252] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:classic
+[01Feb2025 23:03:48.252] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:crystaline
+[01Feb2025 23:03:48.252] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:rebellious_14
+[01Feb2025 23:03:48.252] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:tardis_default
+[01Feb2025 23:03:48.252] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:rebellious_15
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:rebellious_16
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:anniversary
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:epsimo
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:rebellious_18
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:copper
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:coral_mk2
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dmadditions:christmas
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dmadditions:australia
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:coral
+[01Feb2025 23:03:48.253] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:refit
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dmadditions:vanilla
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:third
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:tarbee
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dmadditions:coral
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:hudolin
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:template
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:memory_tardis
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:pagoda_default
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:war
+[01Feb2025 23:03:48.254] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dmadditions:timeleak
+[01Feb2025 23:03:48.255] [Worker-Main-2/INFO] [STDOUT/]: [com.swdteam.common.tardis.datapack.InteriorReloadListener:apply:36]: dalekmod:sidrat_default
+[01Feb2025 23:03:48.344] [main/ERROR] [net.minecraft.world.biome.MobSpawnInfo/]: Spawn data: No key maxCount in MapLike[{}]; No key minCount in MapLike[{}]; No key weight in MapLike[{}]; No key type in MapLike[{}]
+[01Feb2025 23:03:48.350] [main/ERROR] [net.minecraft.world.biome.MobSpawnInfo/]: Spawn data: No key maxCount in MapLike[{}]; No key minCount in MapLike[{}]; No key weight in MapLike[{}]; No key type in MapLike[{}]
+[01Feb2025 23:03:48.375] [main/ERROR] [net.minecraft.world.biome.MobSpawnInfo/]: Spawn data: No key maxCount in MapLike[{}]; No key minCount in MapLike[{}]; No key weight in MapLike[{}]; No key type in MapLike[{}]
+[01Feb2025 23:03:48.377] [main/ERROR] [net.minecraft.world.biome.MobSpawnInfo/]: Spawn data: No key maxCount in MapLike[{}]; No key minCount in MapLike[{}]; No key weight in MapLike[{}]; No key type in MapLike[{}]
+[01Feb2025 23:03:48.379] [main/ERROR] [net.minecraft.world.biome.BiomeGenerationSettings/]: Structure start: Not a JSON object: "wotwmod:looter_shrine"; Not a JSON object: "minecraft:ruined_portal"; Not a JSON object: "minecraft:stronghold"; Not a JSON object: "minecraft:mineshaft"; Not a JSON object: "minecraft:pillager_outpost"; Not a JSON object: "minecraft:village_plains"
+[01Feb2025 23:03:48.383] [main/ERROR] [net.minecraft.world.biome.BiomeGenerationSettings/]: Feature: Not a JSON object: "dalekmod:classic_sand_patch"; Not a JSON object: "dalekmod:classic_lake"
+[01Feb2025 23:03:48.388] [main/ERROR] [net.minecraft.world.biome.MobSpawnInfo/]: Spawn data: No key maxCount in MapLike[{}]; No key minCount in MapLike[{}]; No key weight in MapLike[{}]; No key type in MapLike[{}]
+[01Feb2025 23:03:48.389] [main/ERROR] [net.minecraft.world.biome.MobSpawnInfo/]: Spawn data: No key maxCount in MapLike[{}]; No key minCount in MapLike[{}]; No key weight in MapLike[{}]; No key type in MapLike[{}]
+[01Feb2025 23:03:48.430] [main/ERROR] [net.minecraft.util.registry.DynamicRegistries/]: Error loading registry data: No key Properties in MapLike[{"Name":"minecraft:snow"}]
+[01Feb2025 23:03:48.471] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:germ_lab when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.471] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:arcade when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.471] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:ash_den when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.472] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:usbunker when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.472] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:slavemines when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.472] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:mars_chimney when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.473] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:pub when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.473] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:casino when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.473] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:minefield when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.473] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:powerplant when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.473] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:fo_house when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.474] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:truck when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.474] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:texaco when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.474] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:marsruins when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.476] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:germ_lab when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.476] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:arcade when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.476] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:ash_den when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:usbunker when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:slavemines when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:mars_chimney when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:pub when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:casino when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:minefield when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:powerplant when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:fo_house when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:truck when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:texaco when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.477] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:marsruins when preparing the minecraft:the_void flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.491] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:germ_lab when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.491] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:arcade when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.491] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:ash_den when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.492] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:usbunker when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.492] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:slavemines when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.492] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:mars_chimney when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.492] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:pub when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.492] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:casino when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.492] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:minefield when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.492] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:powerplant when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.493] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:fo_house when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.493] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:truck when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.493] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:texaco when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.493] [main/ERROR] [net.minecraft.world.gen.FlatGenerationSettings/]: FORGE: There's no known StructureFeature for wotwmod:marsruins when preparing the dalekmod:tardis flatworld biome. The structure will be skipped and may not spawn. Please register your StructureFeatures in the WorldGenRegistries!
+[01Feb2025 23:03:48.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[01Feb2025 23:03:48.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Feb2025 23:03:48.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Feb2025 23:03:48.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Feb2025 23:03:48.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Feb2025 23:03:48.869] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[01Feb2025 23:03:49.013] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Feb2025 23:03:49.014] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Feb2025 23:03:49.014] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Feb2025 23:03:49.014] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Feb2025 23:03:49.041] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/tardis-server.toml is not correct. Correcting
+[01Feb2025 23:03:49.042] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Machines Configuration.artronPylonRiftDrainRate was corrected from 10.0 to its default, 10.0. 
+[01Feb2025 23:03:49.042] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Machines Configuration.artronCollectorBatteryChargeRate was corrected from 50.0 to its default, 50.0. 
+[01Feb2025 23:03:49.050] [Server thread/INFO] [ModernFix/]: Starting locating executor service with thread pool size of 1
+[01Feb2025 23:03:49.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Feb2025 23:03:49.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Feb2025 23:03:49.838] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[01Feb2025 23:03:51.043] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Feb2025 23:03:51.044] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Feb2025 23:03:51.044] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Feb2025 23:03:51.045] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Feb2025 23:03:51.471] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
+[01Feb2025 23:03:51.970] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
+[01Feb2025 23:03:51.995] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2528 ms
+[01Feb2025 23:03:51.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.969s)! For help, type "help"
+[01Feb2025 23:03:52.146] [Server thread/WARN] [ModernFix/]: Dedicated server took 31.18 seconds to load
+[01Feb2025 23:04:36.375] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@40eeb164
+[01Feb2025 23:04:36.391] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DavidFlippy[/127.139.13.162:54323] logged in with entity id 66 at (236.5, 69.0, 166.5)
+[01Feb2025 23:04:36.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy joined the game
+[01Feb2025 23:04:36.544] [Server thread/INFO] [Waila/]: Syncing config to DavidFlippy (4fb1d991-9eba-3fe9-932b-9587a1cf07f3)
+[01Feb2025 23:04:36.645] [Server thread/INFO] [STDOUT/]: [com.swdteam.common.event.EventHandlerGeneral:onPlayerLogin:190]: Syncing reg for: DavidFlippy
+[01Feb2025 23:04:36.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy has made the advancement [Minecraft Comes Alive]
+[01Feb2025 23:08:52.113] [Server thread/INFO] [STDOUT/]: [com.swdteam.main.DalekMod:onSave:428]: Saved TARDIS Data Pool
+[01Feb2025 23:11:43.102] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:11:45.402] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:11:45.549] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=218, y=22, z=229}
+[01Feb2025 23:11:50.250] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:11:53.600] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:11:57.102] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:12:05.301] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:12:08.652] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:12:13.853] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:12:19.903] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:12:24.251] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:12:25.304] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:12:30.651] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:16.701] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1

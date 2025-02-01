@@ -1,0 +1,30 @@
+
+#Dalek Mod Common Configuration Setting
+[common]
+	#Minimum Y value TARDIS can fly to
+	tardisMinY = 0
+	#Range of Teleport Pads
+	teleportPadRange = 256
+	#Enable angel paintings changing their motive (pose)
+	angelPaintingsChange = true
+	#Enable Spawning of Weeping Angels
+	spawnAngels = true
+	#Chance that a CyberDrone can spawn at Day (0.0-1.0)
+	cyberDroneDaySpawnChance = 0.5
+	#Enable Exterior Lights for TARDISes
+	enableExteriorLights = true
+	#Enable the Day / Night TARDIS panel
+	"enbleDayNightPanel " = true
+	#Chance that an angel painting will make a noise when changing motive (Lower number gives a higher chance)
+	paintingNoiseChance = 20
+	#Chance that an angel painting will attempt to change motive (Lower number gives a higher chance)
+	paintingChangeChance = 100
+	#Chance that a Dalek can spawn at Day (0.0-1.0)
+	dalekDaySpawnChance = 0.35
+	#Enable damaging explosions when the TARDIS crashes
+	enableTardisCrashGriefing = true
+	#Chance the TARDIS will crash. (Lower number gives a higher chance)
+	tardisCrashChance = 750
+	#Enable Cyber Drones
+	cyberDrone = true
+
