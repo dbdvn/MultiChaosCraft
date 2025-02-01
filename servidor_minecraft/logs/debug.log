@@ -3238,3 +3238,270 @@ java.lang.NullPointerException: null
 [01Feb2025 23:23:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 232 now has 20.0
 [01Feb2025 23:23:42.057] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
 [01Feb2025 23:23:45.055] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:52.137] [Server thread/INFO] [STDOUT/]: [com.swdteam.main.DalekMod:onSave:428]: Saved TARDIS Data Pool
+[01Feb2025 23:23:52.140] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 23:23:52.148] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 23:23:52.173] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 40.0
+[01Feb2025 23:23:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 232 now has 230.0
+[01Feb2025 23:23:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 280 now has 580.0
+[01Feb2025 23:23:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 232 now has 339.0
+[01Feb2025 23:23:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 232 now has 30.0
+[01Feb2025 23:23:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 264 now has 270.0
+[01Feb2025 23:23:54.756] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:58.257] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:24:00.105] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:24:04.507] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:24:06.507] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:24:08.255] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:24:12.057] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:24:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 50.0
+[01Feb2025 23:24:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:24:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 280 now has 590.0
+[01Feb2025 23:24:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 60.0
+[01Feb2025 23:24:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 280 now has 600.0
+[01Feb2025 23:24:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 264 now has 280.0
+[01Feb2025 23:24:43.657] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:24:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 70.0
+[01Feb2025 23:24:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 232 now has 240.0
+[01Feb2025 23:24:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 280 now has 610.0
+[01Feb2025 23:24:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 232 now has 339.0
+[01Feb2025 23:24:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 232 now has 40.0
+[01Feb2025 23:24:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 264 now has 290.0
+[01Feb2025 23:25:00.904] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:00.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy has made the advancement [Stone Age]
+[01Feb2025 23:25:02.355] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:03.961] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:05.407] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:07.107] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:08.856] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:10.506] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:13.555] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 80.0
+[01Feb2025 23:25:15.305] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:16.758] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:18.355] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:19.811] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:21.658] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:23.110] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:24.758] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:26.208] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:28.757] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:30.257] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 90.0
+[01Feb2025 23:25:34.008] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:35.457] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:38.706] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:41.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:42.957] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:44.459] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:45.957] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:47.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> david
+[01Feb2025 23:25:47.407] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:48.855] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:51.758] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 100.0
+[01Feb2025 23:25:53.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> dime
+[01Feb2025 23:25:54.506] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:56.609] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:25:58.456] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:00.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> donde estas?
+[01Feb2025 23:26:00.507] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:08.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> en una cueva improvisada
+[01Feb2025 23:26:13.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> ok
+[01Feb2025 23:26:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 110.0
+[01Feb2025 23:26:14.957] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:15.206] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:16.407] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:19.414] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:21.006] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:21.607] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:22.356] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:25.256] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 120.0
+[01Feb2025 23:26:39.106] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:44.107] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:45.707] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:47.159] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:49.007] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:51.907] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:52.058] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 130.0
+[01Feb2025 23:26:55.456] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:26:57.158] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:27:02.109] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:27:05.012] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:27:05.257] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:27:06.457] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:27:08.008] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:27:11.106] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:27:11.161] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:27:12.664] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:27:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 140.0
+[01Feb2025 23:27:19.831] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:big_ruin
+[01Feb2025 23:27:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 150.0
+[01Feb2025 23:27:53.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 160.0
+[01Feb2025 23:27:54.850] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=395, y=48, z=405}
+[01Feb2025 23:28:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 170.0
+[01Feb2025 23:28:18.370] [Worker-Main-2/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[01Feb2025 23:28:33.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 180.0
+[01Feb2025 23:28:52.119] [Server thread/INFO] [STDOUT/]: [com.swdteam.main.DalekMod:onSave:428]: Saved TARDIS Data Pool
+[01Feb2025 23:28:52.122] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 23:28:52.128] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 23:28:53.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 190.0
+[01Feb2025 23:29:09.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> david tengo medio corazon
+[01Feb2025 23:29:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 200.0
+[01Feb2025 23:29:17.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> donde estas?
+[01Feb2025 23:29:18.949] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=-51, y=46, z=359}
+[01Feb2025 23:29:22.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> nose XD
+[01Feb2025 23:29:24.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> mientras refugiate
+[01Feb2025 23:29:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 210.0
+[01Feb2025 23:29:47.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy has made the advancement [Getting an Upgrade]
+[01Feb2025 23:29:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 220.0
+[01Feb2025 23:29:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 210.0
+[01Feb2025 23:29:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 456 now has 510.0
+[01Feb2025 23:29:59.657] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:02.907] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:03.306] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:04.206] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:05.057] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:05.108] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:09.208] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:09.406] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:10.307] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:12.205] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:12.456] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 230.0
+[01Feb2025 23:30:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 324.0
+[01Feb2025 23:30:13.755] [Server thread/DEBUG] [tardis/]: New rift created at: 136, 488
+[01Feb2025 23:30:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 136, 488 now has 10.0
+[01Feb2025 23:30:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 456 now has 520.0
+[01Feb2025 23:30:13.907] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:24.456] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:25.309] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:27.457] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:29.556] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:30.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{wotwmod:landmine} but failed at location BlockPos{x=81, y=64, z=716}
+[01Feb2025 23:30:31.407] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:31.458] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:33.007] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:33.657] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:33.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 240.0
+[01Feb2025 23:30:34.858] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:35.760] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:37.556] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:38.059] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:39.363] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:43.647] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=180, y=12, z=433}
+[01Feb2025 23:30:44.812] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:45.757] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:45.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy has made the advancement [Scared Stiff]
+[01Feb2025 23:30:45.809] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:48.208] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:49.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:52.858] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:52.956] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:53.207] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 250.0
+[01Feb2025 23:30:55.007] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:55.008] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:30:57.508] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:01.956] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:02.656] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:02.707] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:02.764] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:02.765] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:02.765] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:02.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 has made the advancement [Tin tin]
+[01Feb2025 23:31:02.765] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:03.008] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:03.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:03.557] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:04.206] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:07.457] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:07.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> buena!
+[01Feb2025 23:31:11.057] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:11.856] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:13.156] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 260.0
+[01Feb2025 23:31:13.907] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:16.457] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:16.706] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:19.056] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:20.356] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:21.257] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:22.306] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:23.213] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 270.0
+[01Feb2025 23:31:35.707] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:35.808] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:36.758] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:37.656] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:38.607] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:40.806] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:41.558] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:41.706] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:42.707] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:43.612] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:44.557] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 280.0
+[01Feb2025 23:31:53.758] [Server thread/DEBUG] [tardis/]: New rift created at: 200, 552
+[01Feb2025 23:31:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 552 now has 10.0
+[01Feb2025 23:31:54.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> tengo bendajes y 2 pistolas
+[01Feb2025 23:31:56.658] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:31:58.757] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:01.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> como!?
+[01Feb2025 23:32:03.607] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:08.556] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:10.010] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:10.156] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:11.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 283.0
+[01Feb2025 23:32:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 552 now has 20.0
+[01Feb2025 23:32:16.106] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:18.408] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:23.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> en una casa en ruinas
+[01Feb2025 23:32:31.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> excelente
+[01Feb2025 23:32:33.507] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 283.0
+[01Feb2025 23:32:33.757] [Server thread/DEBUG] [tardis/]: New rift created at: 152, 552
+[01Feb2025 23:32:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 552 now has 10.0
+[01Feb2025 23:32:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 552 now has 30.0
+[01Feb2025 23:32:33.907] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:34.307] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:34.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 has made the advancement [Vibing n Scribing]
+[01Feb2025 23:32:34.907] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:35.056] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:35.259] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:35.557] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:35.710] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:37.356] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:37.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 has made the advancement [Hit The Books]
+[01Feb2025 23:32:53.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 283.0
+[01Feb2025 23:32:53.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 552 now has 20.0
+[01Feb2025 23:32:53.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 552 now has 40.0
+[01Feb2025 23:32:54.859] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:32:57.606] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:33:07.406] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:33:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 283.0
+[01Feb2025 23:33:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 552 now has 30.0
+[01Feb2025 23:33:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 552 now has 50.0
+[01Feb2025 23:33:17.558] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:33:24.056] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:33:26.747] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=178, y=37, z=619}
+[01Feb2025 23:33:33.367] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{wotwmod:landmine} but failed at location BlockPos{x=81, y=64, z=725}
+[01Feb2025 23:33:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 283.0
+[01Feb2025 23:33:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 552 now has 40.0
+[01Feb2025 23:33:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 552 now has 60.0
+[01Feb2025 23:33:35.710] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:33:40.657] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:33:44.657] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:33:48.207] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:33:51.757] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:33:52.115] [Server thread/INFO] [STDOUT/]: [com.swdteam.main.DalekMod:onSave:428]: Saved TARDIS Data Pool
+[01Feb2025 23:33:52.119] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 23:33:52.125] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 23:33:53.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 283.0
+[01Feb2025 23:33:53.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 552 now has 50.0
+[01Feb2025 23:33:53.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 552 now has 70.0
+[01Feb2025 23:33:54.199] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=-36, y=54, z=342}

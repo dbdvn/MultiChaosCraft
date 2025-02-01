@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "dalekmod:recipes/food/dalek_donut": {
+    "criteria": {
+      "has_bread": "2025-02-01 23:31:03 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
       "has_item": "2025-01-28 21:31:47 +0000"
@@ -137,6 +143,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-01 23:22:44 +0000"
+    },
+    "done": true
+  },
+  "dalekmod:recipes/food/kronkdog": {
+    "criteria": {
+      "has_bread": "2025-02-01 23:31:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-28 22:14:50 +0000"
@@ -146,6 +164,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2025-01-28 22:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-01 23:23:15 +0000"
     },
     "done": true
   },
@@ -179,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-01 23:33:40 +0000"
+    },
+    "done": true
+  },
   "dalekmod:recipes/combat/explosive_device": {
     "criteria": {
       "has_gun": "2025-01-28 22:30:30 +0000"
@@ -188,6 +218,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2025-01-28 22:13:12 +0000",
+      "apple": "2025-02-01 23:27:11 +0000",
       "salmon": "2025-01-28 22:23:02 +0000"
     },
     "done": false
@@ -252,6 +283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-01 23:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-28 21:52:53 +0000"
@@ -300,6 +337,12 @@
     },
     "done": true
   },
+  "wotwmod:get_martian_scrap": {
+    "criteria": {
+      "scrp": "2025-02-01 23:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-28 22:30:30 +0000"
@@ -315,6 +358,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-28 22:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-01 23:22:44 +0000"
     },
     "done": true
   },
@@ -363,8 +412,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-01-28 21:31:47 +0000",
+      "minecraft:birch_forest": "2025-02-01 23:28:25 +0000",
       "minecraft:dark_forest": "2025-01-28 22:15:08 +0000",
       "minecraft:river": "2025-01-28 22:14:52 +0000",
+      "minecraft:birch_forest_hills": "2025-02-01 23:28:37 +0000",
       "minecraft:wooded_hills": "2025-01-28 22:32:20 +0000",
       "minecraft:plains": "2025-01-28 22:14:32 +0000"
     },
@@ -373,6 +424,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-28 21:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-01 23:30:44 +0000"
     },
     "done": true
   },
@@ -391,6 +448,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-28 22:13:12 +0000"
+    },
+    "done": true
+  },
+  "dalekmod:recipes/food/kronkburger": {
+    "criteria": {
+      "has_bread": "2025-02-01 23:31:03 +0000"
     },
     "done": true
   },
@@ -433,6 +496,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-28 22:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-01 23:33:40 +0000"
     },
     "done": true
   },
@@ -508,15 +577,39 @@
     },
     "done": true
   },
+  "wotwmod:get_research_table": {
+    "criteria": {
+      "res": "2025-02-01 23:32:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-01-28 22:35:12 +0000"
     },
     "done": true
   },
+  "wotwmod:get_scribes_table": {
+    "criteria": {
+      "res": "2025-02-01 23:32:34 +0000"
+    },
+    "done": true
+  },
   "wotwmod:exploration/wotwexplore": {
     "criteria": {
       "killed_something": "2025-01-28 22:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-01 23:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-01 23:22:44 +0000"
     },
     "done": true
   },
@@ -554,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-01 23:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-28 21:53:18 +0000"
@@ -575,6 +674,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-28 22:30:30 +0000"
+    },
+    "done": true
+  },
+  "wotwmod:get_tin": {
+    "criteria": {
+      "tin": "2025-02-01 23:31:02 +0000"
     },
     "done": true
   },
