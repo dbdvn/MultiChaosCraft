@@ -564,3 +564,135 @@ java.lang.NullPointerException: null
 [01Feb2025 23:12:25.304] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
 [01Feb2025 23:12:30.651] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
 [01Feb2025 23:13:16.701] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:34.504] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:37.903] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:41.953] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:45.404] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:48.753] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:52.140] [Server thread/INFO] [STDOUT/]: [com.swdteam.main.DalekMod:onSave:428]: Saved TARDIS Data Pool
+[01Feb2025 23:14:05.201] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:07.002] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:10.954] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:17.552] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:18.452] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:40.710] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:40.714] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:41.207] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.203] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.204] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.303] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.609] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.631] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=64, z=151} BlockPos{x=205, y=63, z=150}
+[01Feb2025 23:14:42.652] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.702] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.952] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:43.002] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:43.003] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:45.153] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:45.450] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.swdteam.common.entity.dalek.DalekEntity from class com.swdteam.common.entity.LaserEntity
+[01Feb2025 23:15:22.403] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:22.502] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:22.502] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:22.552] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:24.606] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:24.653] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:25.052] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:25.052] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:28.552] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:28.951] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:44.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy blew up
+[01Feb2025 23:15:49.719] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@77978c4a
+[01Feb2025 23:15:49.729] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: dbdvn9124[/127.160.128.85:40273] logged in with entity id 1133 at (103.99648971216783, 62.0, 419.94524862407246)
+[01Feb2025 23:15:49.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 joined the game
+[01Feb2025 23:15:49.769] [Server thread/INFO] [Waila/]: Syncing config to dbdvn9124 (8f0c9f44-6082-3481-a3a4-eb6a4c64f7f6)
+[01Feb2025 23:15:49.771] [Server thread/INFO] [STDOUT/]: [com.swdteam.common.event.EventHandlerGeneral:onPlayerLogin:190]: Syncing reg for: dbdvn9124
+[01Feb2025 23:15:49.881] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.881] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.881] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.882] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.882] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.882] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.882] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.883] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.883] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.883] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.884] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.884] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.884] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.885] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.885] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.889] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.889] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.890] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.890] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.890] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.890] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:52.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:16:00.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy blew up
+[01Feb2025 23:16:09.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> david
+[01Feb2025 23:16:59.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [dbdvn9124: Teleported DavidFlippy to dbdvn9124]
+[01Feb2025 23:17:17.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> buena zona
+[01Feb2025 23:17:54.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> corre
+[01Feb2025 23:17:59.353] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:18:05.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> atraelo
+[01Feb2025 23:18:52.118] [Server thread/INFO] [STDOUT/]: [com.swdteam.main.DalekMod:onSave:428]: Saved TARDIS Data Pool
+[01Feb2025 23:19:01.604] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:19:02.560] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:19:02.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy has made the advancement [Earth Defence Force]
+[01Feb2025 23:19:21.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> puedes atraerlo?
+[01Feb2025 23:19:27.305] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:19:39.949] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=203, y=50, z=422}
+[01Feb2025 23:19:51.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 was slain by Martian Scalping Machine
+[01Feb2025 23:20:00.907] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:04.005] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:06.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [dbdvn9124: Teleported dbdvn9124 to DavidFlippy]
+[01Feb2025 23:20:11.155] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:20.153] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:25.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 was annihilated by a heat ray 
+[01Feb2025 23:20:30.206] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:43.410] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:45.855] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:47.105] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:59.055] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:00.307] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:12.263] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:18.906] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:20.705] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:26.005] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:28.104] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:38.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> ontas?
+[01Feb2025 23:21:46.953] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:46.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 has made the advancement [Earth Defence Force]
+[01Feb2025 23:21:46.954] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:53.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> ya llege
+[01Feb2025 23:21:58.654] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:22:19.455] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:22:23.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> david
+[01Feb2025 23:22:28.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> que pasa?
+[01Feb2025 23:22:38.449] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=233, y=43, z=338}
+[01Feb2025 23:22:39.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> alejemonos de alien
+[01Feb2025 23:22:44.355] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:22:44.458] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:22:47.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> ya ando
+[01Feb2025 23:23:05.249] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=-63, y=24, z=269}
+[01Feb2025 23:23:24.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 blew up
+[01Feb2025 23:23:28.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:30.005] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:32.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:42.057] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:45.055] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1

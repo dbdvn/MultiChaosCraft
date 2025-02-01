@@ -2480,3 +2480,761 @@ java.lang.NullPointerException: null
 [01Feb2025 23:13:13.751] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 510.0
 [01Feb2025 23:13:13.751] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 232 now has 339.0
 [01Feb2025 23:13:16.701] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:33.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 216 now has 450.0
+[01Feb2025 23:13:33.776] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:13:33.776] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 216 now has 320.0
+[01Feb2025 23:13:33.776] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:13:33.777] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 190.0
+[01Feb2025 23:13:33.777] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:13:33.777] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 520.0
+[01Feb2025 23:13:34.504] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:37.903] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:41.953] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:45.404] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:48.753] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:13:52.140] [Server thread/INFO] [STDOUT/]: [com.swdteam.main.DalekMod:onSave:428]: Saved TARDIS Data Pool
+[01Feb2025 23:13:52.144] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 23:13:52.151] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 23:13:53.751] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:13:53.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:13:53.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 200.0
+[01Feb2025 23:13:53.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:13:53.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 530.0
+[01Feb2025 23:14:05.201] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:07.002] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:10.954] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:13.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:14:13.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:14:13.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 210.0
+[01Feb2025 23:14:13.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:14:13.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 540.0
+[01Feb2025 23:14:13.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 296, 184 now has 340.0
+[01Feb2025 23:14:17.552] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:18.452] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:33.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:14:33.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:14:33.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 220.0
+[01Feb2025 23:14:33.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:14:33.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 550.0
+[01Feb2025 23:14:40.710] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:40.714] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:41.207] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.203] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.204] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.303] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.609] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.631] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=204, y=64, z=151} BlockPos{x=205, y=63, z=150}
+[01Feb2025 23:14:42.652] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.702] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:42.952] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:43.002] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:43.003] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:45.153] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:14:45.450] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.swdteam.common.entity.dalek.DalekEntity from class com.swdteam.common.entity.LaserEntity
+[01Feb2025 23:14:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:14:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:14:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 230.0
+[01Feb2025 23:14:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:14:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 560.0
+[01Feb2025 23:15:13.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:15:13.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:15:13.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 240.0
+[01Feb2025 23:15:13.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:15:13.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 570.0
+[01Feb2025 23:15:22.403] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:22.502] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:22.502] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:22.552] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:24.606] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:24.653] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:25.052] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:25.052] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:28.552] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:28.951] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:33.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 216 now has 460.0
+[01Feb2025 23:15:33.752] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:15:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 216 now has 320.0
+[01Feb2025 23:15:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:15:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 250.0
+[01Feb2025 23:15:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:15:44.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy blew up
+[01Feb2025 23:15:47.300] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 44 messages to dispatch.
+[01Feb2025 23:15:47.314] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.mrcrayfish.obfuscate.network.HandshakeMessages$S2CSyncedPlayerData' to 'obfuscate:handshake' sequence 0
+[01Feb2025 23:15:47.355] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[01Feb2025 23:15:47.408] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:interior_hum' to 'fml:handshake' sequence 2
+[01Feb2025 23:15:47.456] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 3
+[01Feb2025 23:15:47.460] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel obfuscate:handshake with index 0
+[01Feb2025 23:15:47.460] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.obfuscate.network.HandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:47.460] [Netty Epoll Server IO #6/DEBUG] [Obfuscate/OBFUSCATE_HANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:47.504] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:vm_function_category' to 'fml:handshake' sequence 4
+[01Feb2025 23:15:47.522] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[01Feb2025 23:15:47.522] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[01Feb2025 23:15:47.522] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, zombie_extreme, smoothchunk, notenoughcrashes, limitedchunks, wotwmod, connectivity, betterfpsdist, autooredictconv, tadditions, clumps, fastasyncworldsave, modernfix, jei, dmadditions, dalekmod, configured, obfuscate, mdecore, lazydfu, architectury, mca, ferritecore, waila, fpsreducer, memoryleakfix, tardis, vortexmanipulators, forge, geckolib3, embeddium, rubidium, corpse]
+[01Feb2025 23:15:47.522] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'autooredictconv:main' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'obfuscate:handshake' : Version test of 'OBFUSCATE_V1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'wotwmod:main_channel' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'zombie_extreme:zombie_extreme' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dalekmod:dmu_channel' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'obfuscate:play' : Version test of 'OBFUSCATE_V1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tardis:main_channel' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'vortexmanipulators:main' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dmadditions:main' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tadditions:main_channel' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Version test of '1.0.0' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'dalekmod:main_channel' : Version test of '1' from client : ACCEPTED
+[01Feb2025 23:15:47.523] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[01Feb2025 23:15:47.524] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[01Feb2025 23:15:47.553] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:trait' to 'fml:handshake' sequence 5
+[01Feb2025 23:15:47.602] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 6
+[01Feb2025 23:15:47.645] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[01Feb2025 23:15:47.645] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:47.645] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:47.653] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 7
+[01Feb2025 23:15:47.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[01Feb2025 23:15:47.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:47.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:47.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[01Feb2025 23:15:47.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:47.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:47.707] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:vm_function' to 'fml:handshake' sequence 8
+[01Feb2025 23:15:47.733] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[01Feb2025 23:15:47.733] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:47.733] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:47.752] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:disguise' to 'fml:handshake' sequence 9
+[01Feb2025 23:15:47.802] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 10
+[01Feb2025 23:15:47.853] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:flight_event' to 'fml:handshake' sequence 11
+[01Feb2025 23:15:47.906] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[01Feb2025 23:15:47.952] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:exterior' to 'fml:handshake' sequence 13
+[01Feb2025 23:15:48.003] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:dalek_type' to 'fml:handshake' sequence 14
+[01Feb2025 23:15:48.056] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:mission_stage' to 'fml:handshake' sequence 15
+[01Feb2025 23:15:48.103] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[01Feb2025 23:15:48.150] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[01Feb2025 23:15:48.150] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.150] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[01Feb2025 23:15:48.151] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.152] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.154] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:schematic_types' to 'fml:handshake' sequence 17
+[01Feb2025 23:15:48.155] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[01Feb2025 23:15:48.155] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.155] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.155] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[01Feb2025 23:15:48.155] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.155] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.155] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[01Feb2025 23:15:48.155] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.155] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.203] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 18
+[01Feb2025 23:15:48.235] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[01Feb2025 23:15:48.235] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.235] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.236] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[01Feb2025 23:15:48.236] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.236] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.251] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[01Feb2025 23:15:48.259] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[01Feb2025 23:15:48.259] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.259] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.301] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 20
+[01Feb2025 23:15:48.335] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[01Feb2025 23:15:48.335] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.335] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.351] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 21
+[01Feb2025 23:15:48.391] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[01Feb2025 23:15:48.391] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.391] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.402] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 22
+[01Feb2025 23:15:48.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[01Feb2025 23:15:48.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.455] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:sound_scheme' to 'fml:handshake' sequence 23
+[01Feb2025 23:15:48.483] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[01Feb2025 23:15:48.483] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.483] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.501] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:exterior_animation' to 'fml:handshake' sequence 24
+[01Feb2025 23:15:48.524] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[01Feb2025 23:15:48.525] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.525] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.552] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:sonic_mode' to 'fml:handshake' sequence 25
+[01Feb2025 23:15:48.604] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 26
+[01Feb2025 23:15:48.652] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:console' to 'fml:handshake' sequence 27
+[01Feb2025 23:15:48.661] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[01Feb2025 23:15:48.661] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.661] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.661] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[01Feb2025 23:15:48.661] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.661] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.703] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 28
+[01Feb2025 23:15:48.703] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[01Feb2025 23:15:48.703] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.703] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.744] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[01Feb2025 23:15:48.744] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.744] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.751] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 29
+[01Feb2025 23:15:48.784] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[01Feb2025 23:15:48.785] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.785] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.802] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:mission' to 'fml:handshake' sequence 30
+[01Feb2025 23:15:48.802] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[01Feb2025 23:15:48.802] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.802] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.853] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:broken_exterior_type' to 'fml:handshake' sequence 31
+[01Feb2025 23:15:48.902] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:control' to 'fml:handshake' sequence 32
+[01Feb2025 23:15:48.921] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[01Feb2025 23:15:48.921] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.921] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.922] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[01Feb2025 23:15:48.922] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:48.922] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:48.952] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:subsystem' to 'fml:handshake' sequence 33
+[01Feb2025 23:15:49.002] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:upgrade' to 'fml:handshake' sequence 34
+[01Feb2025 23:15:49.052] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tardis:protocol' to 'fml:handshake' sequence 35
+[01Feb2025 23:15:49.054] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[01Feb2025 23:15:49.055] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.055] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.096] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[01Feb2025 23:15:49.096] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.096] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.096] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[01Feb2025 23:15:49.096] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.096] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.101] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 36
+[01Feb2025 23:15:49.152] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 37
+[01Feb2025 23:15:49.182] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[01Feb2025 23:15:49.182] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.182] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.182] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[01Feb2025 23:15:49.183] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.183] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.202] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config dalekmod-server.toml' to 'fml:handshake' sequence 38
+[01Feb2025 23:15:49.252] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tardis-server.toml' to 'fml:handshake' sequence 39
+[01Feb2025 23:15:49.284] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[01Feb2025 23:15:49.284] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.284] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.284] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[01Feb2025 23:15:49.284] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.284] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.301] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tadditions-server.toml' to 'fml:handshake' sequence 40
+[01Feb2025 23:15:49.351] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 41
+[01Feb2025 23:15:49.402] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 42
+[01Feb2025 23:15:49.415] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[01Feb2025 23:15:49.415] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.415] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.453] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 43
+[01Feb2025 23:15:49.454] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[01Feb2025 23:15:49.454] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.454] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.502] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[01Feb2025 23:15:49.502] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.502] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.502] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[01Feb2025 23:15:49.502] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.502] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.504] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[01Feb2025 23:15:49.504] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.504] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.634] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[01Feb2025 23:15:49.635] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.635] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.635] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[01Feb2025 23:15:49.635] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[01Feb2025 23:15:49.635] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Feb2025 23:15:49.651] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[01Feb2025 23:15:49.719] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@77978c4a
+[01Feb2025 23:15:49.729] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: dbdvn9124[/127.160.128.85:40273] logged in with entity id 1133 at (103.99648971216783, 62.0, 419.94524862407246)
+[01Feb2025 23:15:49.729] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@c8ebae2 into net.minecraft.network.NetworkManager@9298479
+[01Feb2025 23:15:49.730] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 81 classes
+[01Feb2025 23:15:49.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 joined the game
+[01Feb2025 23:15:49.769] [Server thread/INFO] [Waila/]: Syncing config to dbdvn9124 (8f0c9f44-6082-3481-a3a4-eb6a4c64f7f6)
+[01Feb2025 23:15:49.771] [Server thread/INFO] [STDOUT/]: [com.swdteam.common.event.EventHandlerGeneral:onPlayerLogin:190]: Syncing reg for: dbdvn9124
+[01Feb2025 23:15:49.881] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.881] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.881] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.882] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.882] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.882] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.882] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.883] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.883] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.883] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.884] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.884] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.884] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.885] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.885] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.889] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.889] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.890] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.890] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.890] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.890] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Feb2025 23:15:49.891] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.892] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:49.893] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Feb2025 23:15:52.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 216 now has 470.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 216 now has 320.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 260.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 580.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 70.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 180.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 620.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:15:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:16:00.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy blew up
+[01Feb2025 23:16:09.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> david
+[01Feb2025 23:16:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 216 now has 480.0
+[01Feb2025 23:16:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 232 now has 210.0
+[01Feb2025 23:16:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:16:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 216 now has 320.0
+[01Feb2025 23:16:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:16:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 270.0
+[01Feb2025 23:16:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:16:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 590.0
+[01Feb2025 23:16:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 232 now has 339.0
+[01Feb2025 23:16:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 80.0
+[01Feb2025 23:16:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:16:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:16:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 190.0
+[01Feb2025 23:16:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 630.0
+[01Feb2025 23:16:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:16:13.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:16:33.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 216 now has 490.0
+[01Feb2025 23:16:33.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:16:33.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 216 now has 320.0
+[01Feb2025 23:16:33.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:16:33.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 280.0
+[01Feb2025 23:16:33.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:16:33.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 90.0
+[01Feb2025 23:16:33.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:16:33.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:16:33.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 200.0
+[01Feb2025 23:16:33.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 640.0
+[01Feb2025 23:16:33.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:16:33.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:16:53.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 216 now has 500.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 216 now has 320.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 290.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 100.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 210.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 650.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:16:53.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:16:59.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [dbdvn9124: Teleported DavidFlippy to dbdvn9124]
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 110.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 220.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 660.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 120.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 230.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 670.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:17:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:17:17.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> buena zona
+[01Feb2025 23:17:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:17:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:17:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 240.0
+[01Feb2025 23:17:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 680.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 60.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 250.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 530.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 690.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:17:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 70.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 260.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 540.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 700.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:17:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 80.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 270.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 710.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 90.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 408 now has 220.0
+[01Feb2025 23:17:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 456 now has 480.0
+[01Feb2025 23:17:54.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> corre
+[01Feb2025 23:17:59.353] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:18:05.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> atraelo
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 280.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 550.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 720.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 100.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 290.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 560.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 730.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 110.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 408 now has 230.0
+[01Feb2025 23:18:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 456 now has 490.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 130.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 570.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 740.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 120.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 580.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 750.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 130.0
+[01Feb2025 23:18:33.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 408 now has 240.0
+[01Feb2025 23:18:52.118] [Server thread/INFO] [STDOUT/]: [com.swdteam.main.DalekMod:onSave:428]: Saved TARDIS Data Pool
+[01Feb2025 23:18:52.123] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 23:18:52.130] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 140.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 590.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 760.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:18:53.753] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 140.0
+[01Feb2025 23:18:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 150.0
+[01Feb2025 23:18:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:18:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 600.0
+[01Feb2025 23:18:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:19:01.604] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:19:02.560] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:19:02.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavidFlippy has made the advancement [Earth Defence Force]
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 160.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 610.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 770.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 150.0
+[01Feb2025 23:19:13.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 170.0
+[01Feb2025 23:19:21.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> puedes atraerlo?
+[01Feb2025 23:19:27.305] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 180.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 620.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 780.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 160.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 190.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:19:33.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:19:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:19:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 630.0
+[01Feb2025 23:19:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:19:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:19:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:19:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:19:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 408 now has 250.0
+[01Feb2025 23:19:39.949] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=203, y=50, z=422}
+[01Feb2025 23:19:51.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 was slain by Martian Scalping Machine
+[01Feb2025 23:19:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 200.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 640.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 216 now has 320.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 300.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 600.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 296, 184 now has 350.0
+[01Feb2025 23:19:53.758] [Server thread/DEBUG] [tardis/]: Rift refueled at: 296, 216 now has 320.0
+[01Feb2025 23:20:00.907] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:04.005] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:06.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [dbdvn9124: Teleported dbdvn9124 to DavidFlippy]
+[01Feb2025 23:20:11.155] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 130.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 210.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 650.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: New rift created at: 72, 408
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 72, 408 now has 10.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 220.0
+[01Feb2025 23:20:13.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:20:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:20:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:20:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 660.0
+[01Feb2025 23:20:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:20:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:20:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:20:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:20:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:20:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 170.0
+[01Feb2025 23:20:20.153] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:25.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 was annihilated by a heat ray 
+[01Feb2025 23:20:30.206] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 140.0
+[01Feb2025 23:20:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 72, 408 now has 20.0
+[01Feb2025 23:20:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 230.0
+[01Feb2025 23:20:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:20:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:20:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:20:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 670.0
+[01Feb2025 23:20:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:20:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:20:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 216 now has 510.0
+[01Feb2025 23:20:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:20:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 216 now has 320.0
+[01Feb2025 23:20:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:20:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 310.0
+[01Feb2025 23:20:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:20:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 610.0
+[01Feb2025 23:20:43.410] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:45.855] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:47.105] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:20:51.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wotwmod:martianroom
+[01Feb2025 23:20:52.250] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of wotwmod:lootertower
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 150.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 72, 408 now has 30.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 240.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 280 now has 550.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 232 now has 339.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 264 now has 250.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 296, 184 now has 360.0
+[01Feb2025 23:20:53.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 296, 216 now has 330.0
+[01Feb2025 23:20:59.055] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:00.307] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:12.263] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:13.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 160.0
+[01Feb2025 23:21:13.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 72, 408 now has 40.0
+[01Feb2025 23:21:13.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 250.0
+[01Feb2025 23:21:13.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:21:13.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:21:13.761] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:21:13.762] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 280 now has 560.0
+[01Feb2025 23:21:13.762] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 232 now has 339.0
+[01Feb2025 23:21:13.762] [Server thread/DEBUG] [tardis/]: New rift created at: 264, 232
+[01Feb2025 23:21:13.762] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 232 now has 10.0
+[01Feb2025 23:21:13.762] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 264 now has 260.0
+[01Feb2025 23:21:18.906] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:20.705] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:26.005] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:28.104] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 170.0
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 72, 408 now has 50.0
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 300.0
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 680.0
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:21:33.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 280 now has 570.0
+[01Feb2025 23:21:38.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> ontas?
+[01Feb2025 23:21:46.953] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:46.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 has made the advancement [Earth Defence Force]
+[01Feb2025 23:21:46.954] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:21:53.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> ya llege
+[01Feb2025 23:21:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 180.0
+[01Feb2025 23:21:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 72, 408 now has 60.0
+[01Feb2025 23:21:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:21:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:21:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:21:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 310.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 260.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 690.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:21:53.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 408 now has 260.0
+[01Feb2025 23:21:58.654] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:22:13.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 190.0
+[01Feb2025 23:22:13.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 72, 408 now has 70.0
+[01Feb2025 23:22:13.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:22:13.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 344 now has 270.0
+[01Feb2025 23:22:13.759] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:22:13.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:22:13.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:22:13.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 700.0
+[01Feb2025 23:22:13.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:22:13.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:22:13.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:22:13.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:22:13.760] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 408 now has 270.0
+[01Feb2025 23:22:19.455] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:22:23.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> david
+[01Feb2025 23:22:28.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> que pasa?
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 200.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 72, 408 now has 80.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 710.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 180.0
+[01Feb2025 23:22:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 408 now has 280.0
+[01Feb2025 23:22:38.449] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=233, y=43, z=338}
+[01Feb2025 23:22:39.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dbdvn9124> alejemonos de alien
+[01Feb2025 23:22:44.355] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:22:44.458] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:22:47.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DavidFlippy> ya ando
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: New rift created at: 40, 392
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 10.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 56, 408 now has 210.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 720.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: New rift created at: 168, 440
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 190.0
+[01Feb2025 23:22:53.754] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 408 now has 290.0
+[01Feb2025 23:23:05.249] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.utils.WOTWRegistries:infectBlock:283]: Red Weed Tick At: BlockPos{x=-63, y=24, z=269}
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 20.0
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 104, 392 now has 872.0
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 360 now has 491.0
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 408 now has 917.0
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 120, 456 now has 320.0
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 360 now has 730.0
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 392 now has 782.0
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 408 now has 277.0
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 152, 440 now has 519.0
+[01Feb2025 23:23:13.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 376 now has 322.0
+[01Feb2025 23:23:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 392 now has 304.0
+[01Feb2025 23:23:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 168, 440 now has 200.0
+[01Feb2025 23:23:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 408 now has 300.0
+[01Feb2025 23:23:13.757] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 456 now has 500.0
+[01Feb2025 23:23:24.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dbdvn9124 blew up
+[01Feb2025 23:23:28.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:30.005] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:32.157] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 40, 392 now has 30.0
+[01Feb2025 23:23:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 216 now has 520.0
+[01Feb2025 23:23:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 184, 232 now has 220.0
+[01Feb2025 23:23:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 152 now has 337.0
+[01Feb2025 23:23:33.755] [Server thread/DEBUG] [tardis/]: Rift refueled at: 200, 216 now has 320.0
+[01Feb2025 23:23:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 216, 200 now has 777.0
+[01Feb2025 23:23:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 152 now has 320.0
+[01Feb2025 23:23:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 232, 200 now has 829.0
+[01Feb2025 23:23:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 168 now has 620.0
+[01Feb2025 23:23:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 248, 232 now has 339.0
+[01Feb2025 23:23:33.756] [Server thread/DEBUG] [tardis/]: Rift refueled at: 264, 232 now has 20.0
+[01Feb2025 23:23:42.057] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
+[01Feb2025 23:23:45.055] [Server thread/INFO] [STDOUT/]: [com.swdteam.wotwmod.common.event.MobEvents:onItemCollect:276]: 1
