@@ -470,3 +470,7 @@
 [29Mar2025 01:38:04.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /home/codespace/.python/current/bin/python3 /workspaces/MultiChaosCraft/msx.py<--[HERE]
 [29Mar2025 01:43:05.245] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [29Mar2025 01:43:05.249] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 01:48:04.491] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 01:48:04.496] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 01:53:04.490] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 01:53:04.495] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
